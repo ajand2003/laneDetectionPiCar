@@ -1,3 +1,6 @@
+#test file to see how thresholding certain edges found by Houghlinetransform would perform
+#not part of actual project
+
 from PIL import Image
 import cv2
 import numpy as np
