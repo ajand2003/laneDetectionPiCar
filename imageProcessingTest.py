@@ -1,3 +1,5 @@
+#file created to test image processing algorithms and various gaussian blurs
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
