@@ -1,3 +1,5 @@
+#primary file that computes steering angle using various image processing and computer vision algorithms
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
