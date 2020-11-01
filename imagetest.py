@@ -1,3 +1,5 @@
+#file dedicated to implementing various colored filters on images and field testing them real-time
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
